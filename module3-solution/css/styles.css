@@ -44,7 +44,9 @@
     border: 1px solid black;
 }
 
-
+#mobileMenu-links{
+    padding: 10px;
+}
 
 #mobileMenu-links li{
     border-bottom: 2px solid black;
